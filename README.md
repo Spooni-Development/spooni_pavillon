@@ -1,13 +1,13 @@
 # 🏠 Pavillon Prop
 
 ## 1. Installation
-spooni_Pavillon works Standalone.  
+spooni_pavillon works Standalone.  
 
-To install spooni_Pavillon:
+To install spooni_pavillon:
 - Drag and drop the resource into your resources folder
-  - `spooni_Pavillon`
+  - `spooni_pavillon`
 - Add this ensure in your server.cfg
-  - `ensure spooni_Pavillon`
+  - `ensure spooni_pavillon`
 - At the end
   - Restart the server
 
