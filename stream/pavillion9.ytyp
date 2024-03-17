@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+   <Item type="CBaseArchetypeDef">
+   <loadFlags value="0x0000000000000000" />
+   <lodDist value="200" />
+   <flags value="0" />
+   <avoidanceflags value="0" />
+   <specialAttribute value="0" />
+   <bbMin x="-5.036485" y="-7.852203" z="-3.560763" />
+   <bbMax x="7.291561" y="3.862868" z="3.712881" />
+   <bsCentre x="1.1275382" y="-1.99466753" z="0.0760591" />
+   <bsRadius value="9.248372" />
+   <hdTextureDist value="500" />
+   <name>pavillion9</name>
+   <textureDictionary>pavillion9</textureDictionary>
+   <clipDictionary />
+   <drawableDictionary />
+   <physicsDictionary>pavillion9</physicsDictionary>
+   <assetType>ASSET_TYPE_DRAWABLE</assetType>
+   <assetName>pavillion9</assetName>
+   <extensions />
+   <guid value="0x0000000000000000" />
+   <zqNiUDA_0x07D164A8>MAP_ENTITY_TYPE_BUILDING</zqNiUDA_0x07D164A8>
+  </Item>
+  </archetypes>
+  <name>pavillion9</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
